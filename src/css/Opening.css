@@ -1,21 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Nixie+One&display=swap');
+
 .Opening {
     text-align: center;
 }
 
 .Opening-header {
-    background-color: #F8F8F8;
+    background-color: #d3c8de;
     background-size: cover;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    font-size: calc(10px + 2vmin);
-    color: black;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    font-family: 'Nixie One', cursive;
 }
 
 .intro {
     font-size: 500%;
     margin-bottom: 0;
+}
+
+.flower {
+    color: white;
+    position:absolute;
+    bottom:0px;
+    left:0px;
+    margin-bottom: 1px;
+    margin-left : 1px;
+    width: 100px;
+    height: 250px;
 }

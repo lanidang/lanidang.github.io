@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Nixie+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+
+.About {
+    text-align: center;
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-width: 300px;
+    font-family: 'Montserrat', sans-serif;;
+}
+
+#title {
+    color: #d3c8de;
+    font-family: 'Nixie One', cursive;
+}
