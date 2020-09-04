@@ -21,7 +21,6 @@
 }
 
 .navItem:hover {
-    text-decoration: underline;
-    color: #dbf4a7;
+    color: #fef8ec;
     cursor: pointer;
 }

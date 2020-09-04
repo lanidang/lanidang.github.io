@@ -33,4 +33,6 @@
 
 .link {
     color: #7d84b2;
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
 }

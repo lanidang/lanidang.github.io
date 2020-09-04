@@ -17,9 +17,9 @@ class About extends Component {
                         <p id="description">
                             Hello! I'm Lani. I'm studying computer science at the Univeristy of Washington and I will be graduating in June 2023. I strive to be an active
                             member of my community and I'm currently involved with ACM-W and Impact++, on-campus student organizations. As a member of the executive board of ACM-W, my role
-                            includes managing the ACM-W's social media accounts as well as maintaining the website, giving me experience in web development. I am also a Community Committee Member
+                            includes managing ACM-W's social media accounts as well as maintaining the website, giving me experience in web development. I'm also a Community Committee Member
                             on Impact++, a student-led organization for team-based software projects. I am passionate about contributing to a team and I look forward to working on new projects in 
-                            future!
+                            the future!
                         </p>
                         <p id="description">
                             I also have a variety of interests outside of school and tech including dancing, bullet journaling, and baking. I trained as a ballet dancer for 14 years :). Don't

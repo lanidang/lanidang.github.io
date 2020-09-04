@@ -15,14 +15,14 @@
     text-align: center;
     margin: auto;
     color: black;
-    width: 50%;
+    width: 70%;
     font-family: 'Source Serif Pro', serif;
 }
 
 .text {
     float: left;
     text-align: left;
-    width: 40%;
+    width: 50%;
     min-width: 300px;
     font-family: 'Source Serif Pro', serif;
 }
