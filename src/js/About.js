@@ -15,7 +15,7 @@ class About extends Component {
                             about
                         </h1>
                         <p id="description">
-                            Hello! I'm Lani. I'm currently studying computer science at the Univeristy of Washington and I will be graduating in June 2023.
+                            Hello! I'm Lani. I'm currently studying computer science at the Univeristy of Washington and I will be graduating in June 2023. 
                         </p>
                         <p>contact me:  <a className="link" href="mailto:lanidang@cs.washington.edu">lanidang@cs.washington.edu</a></p>
                         <p className="link">
