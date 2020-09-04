@@ -63,7 +63,7 @@
     background-color: #dbf4a7;
     bottom: 60px;
     right: 50px;
-    position: fixed;
+    position: absolute;
 }
 
 .circle5 {
@@ -74,7 +74,7 @@
     background-color: #fef8ec;
     bottom: 140px;
     right: 50px;
-    position: fixed;
+    position: absolute;
 }
 
 .circle6 {
@@ -85,5 +85,5 @@
     background-color: #8e9dcc;
     bottom: 220px;
     right: 50px;
-    position: fixed;
+    position: absolute;
 }

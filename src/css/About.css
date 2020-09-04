@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&family=Source+Serif+Pro&display=swap');
 
-
 .About {
     text-align: center;
     background-color: #d9dbf1;
@@ -42,4 +41,9 @@
 .link {
     color: #7d84b2;
     font-family: 'Source Sans Pro', sans-serif;
+}
+
+.link:hover {
+    text-decoration: underline;
+    cursor: pointer;
 }
