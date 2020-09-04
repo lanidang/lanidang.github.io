@@ -7,8 +7,8 @@ import About from './js/About.js';
 function App() {
   return (
     <div>
-      <NavBar />
       <Opening />
+      <NavBar />
       <About />
     </div>
   );
