@@ -20,14 +20,3 @@
     font-size: 500%;
     margin-bottom: 0;
 }
-
-.flower {
-    color: white;
-    position:absolute;
-    bottom:0px;
-    left:0px;
-    margin-bottom: 1px;
-    margin-left : 1px;
-    width: 100px;
-    height: 250px;
-}

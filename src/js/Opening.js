@@ -11,9 +11,6 @@ class Opening extends Component {
                         hi, i'm lani
                     </p>
                 </header>
-                <p className="flower">
-                    <GiFlowerPot size="250px" />
-                </p>
             </div>
         );
     }
