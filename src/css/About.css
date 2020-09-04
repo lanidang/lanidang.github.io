@@ -1,19 +1,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Nixie+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&family=Source+Serif+Pro&display=swap');
 
 
 .About {
     text-align: center;
-    background-color: white;
+    background-color: #fef8ec;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+.About-content {
+    text-align: center;
+    margin: auto;
+    color: black;
+    width: 50%;
+    font-family: 'Source Serif Pro', serif;
+}
+
+.text {
+    float: left;
+    text-align: left;
+    width: 40%;
     min-width: 300px;
-    font-family: 'Montserrat', sans-serif;;
+    font-family: 'Source Serif Pro', serif;
 }
 
 #title {
-    color: #d3c8de;
-    font-family: 'Nixie One', cursive;
+    color: #7d84b2;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#profileImage {
+    float: right;
+    width: 30%;
+    border: none;
+}
+
+.link {
+    color: #7d84b2;
+    font-family: 'Source Sans Pro', sans-serif;
 }

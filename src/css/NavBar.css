@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&family=Source+Serif+Pro&display=swap');
 
 .navbar {
     position: fixed;
@@ -12,14 +13,15 @@
 }
 
 .navItem {
-    color: white;
-    font-size: 2.3em;
-    font-family: 'Montserrat', sans-serif;
+    color: #7d84b2;
+    font-size: 1.8em;
+    font-family: 'Source Sans Pro', sans-serif;
     padding-right: 30px;
     display: inline;
 }
 
 .navItem:hover {
     text-decoration: underline;
+    color: #dbf4a7;
     cursor: pointer;
 }

@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import '../css/Opening.css';
-import { GiFlowerPot } from "react-icons/gi"
 
 class Opening extends Component {
     render() {
@@ -8,7 +7,7 @@ class Opening extends Component {
             <div className="Opening">
                 <header className="Opening-header">
                     <p className="intro">
-                        hi, i'm lani
+                        hi, i'm <span style={{color: "#7d84b2"}}>lani</span>
                     </p>
                 </header>
             </div>
