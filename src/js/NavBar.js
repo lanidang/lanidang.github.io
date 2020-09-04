@@ -12,11 +12,22 @@ class NavBar extends Component {
                         to="about"
                         spy={true}
                         smooth={true}
-                        offset={50}
+                        offset={-70}
                         duration={500}
                         className="navItem"
                     >
                         about
+                    </Link>
+
+                    <Link activeClass="active"
+                        to="contact"
+                        spy={true}
+                        smooth={true}
+                        offset={-70}
+                        duration={500}
+                        className="navItem"
+                    >
+                        contact
                     </Link>
                 </ul>
             </div>
